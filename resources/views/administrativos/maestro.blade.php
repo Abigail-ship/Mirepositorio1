@@ -1,0 +1,1 @@
+El maestro de POO es {{$minombre}} {{$miapellido}}
